@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/bjanssens/Inuits/Documents/Puppet_refactor/graphite_module/puppet-graphite/manifests/carbon'
+let g:netrw_dirhist_2='/home/bjanssens/Inuits/Vagrant/vagrant-deploy-cycle'
+let g:netrw_dirhist_3='/home/bjanssens/Inuits/Vagrant/vagrant-graphite/puppet/modules/graphite/manifests/carbon'
