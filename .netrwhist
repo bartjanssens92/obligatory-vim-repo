@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/home/bjanssens/Inuits/Documents/Puppet_refactor/graphite_module/puppet-graphite/manifests/carbon'
-let g:netrw_dirhist_2='/home/bjanssens/Inuits/Vagrant/vagrant-deploy-cycle'
-let g:netrw_dirhist_3='/home/bjanssens/Inuits/Vagrant/vagrant-graphite/puppet/modules/graphite/manifests/carbon'
-let g:netrw_dirhist_4='/home/bjanssens/Inuits/Puppet/Hosting/puppet-tree-hosting/modules/symfony/manifests'
-let g:netrw_dirhist_5='/home/bjanssens/Inuits/Vagrant/vagrant-graphite/puppet/modules/graphite/manifests/carbon'
-let g:netrw_dirhist_6='/home/bjanssens/Inuits/Vagrant/vagrant-graphite/puppet/modules/graphite/manifests/whisper'
-let g:netrw_dirhist_7='/home/bjanssens/Inuits/Vagrant/vagrant-graphite/puppet/modules/graphite/manifests/carbon'
